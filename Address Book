@@ -1,1 +1,187 @@
+SA_Name = str("Shahood Alvi")          #Shahood's variables
+SA_Age = float(17.08)
+SA_Email = str("267741@burlcoschools.org")
+SA_Grade = int(11)
+SA_DriversLicense = bool(False)
 
+LH_Name = str("Leo Hart")               # Leo's variables
+LH_Age = float(17.0)
+LH_Email = str("268095@burlcoschools.org")
+LH_Grade = int(11)
+LH_DriversLicense = bool(True)
+
+MB_Name = str("Mason Bush")            # Mason's variables
+MB_Age = float(17.0)
+MB_Email = str("268262@burlcoschools.org")
+MB_Grade = int(11)
+MB_DriversLicense = bool(False)
+
+RS_Name = str("Ryan Stiles")           # Ryan's Variables
+RS_Age = float(17.333)
+RS_Email = str("267947@burlcoschools.org")
+RS_Grade = int(11)
+RS_DriversLicense = bool(True)
+
+AR_Name = str("Aiden rodregez")        # Aiden's variables
+AR_Age = float(17.0)
+AR_Email = str("268095@burlcoschools.org")
+AR_Grade = int(11)
+AR_DriversLicense = bool(True)
+
+GC_Name = str("Gavin Carnivale")        # Gavin's Variables
+GC_Age = float(17.1)
+GC_Email = str("267764@burlcoschools.org")
+GC_Grade = int(11)
+GC_DriversLicense = bool(True)
+
+NC_Name = str("Nathan Carn")            # Nathan's Variables
+NC_Age = float(17.1)
+NC_Email = str("268021@burlcoschools.org")
+NC_Grade = int(11)
+NC_DriversLicense = bool(True)
+
+CH_Name = str("Christopher Hodson")     # Chris's variables
+CH_Age = float(17.2)
+CH_Email = str("268359@burlcoschools.org")
+CH_Grade = int(11)
+CH_DriversLicense = bool(False)
+
+MD_Name = str("Muntag Diallo")          # Muntags variables
+MD_Age = float(16.75)
+MD_Email = str("268154@burlcoschools.org")
+MD_Grade = int(11)
+MD_DriversLicense = bool(False)
+
+MP_Name = str("Marcos Pualino ")       # Marcos's Variables
+MP_Age = float(16.73)
+MP_Email = str("267947@burlcoschools.org")
+MP_Grade = int(11)
+MP_DriversLicense = bool(False)
+
+JR_Name = str("Jaiden Rankus")        # Jaiden's Varibales
+JR_Age = float(16.7)
+JR_Email = str("268188@burlcoschools.org")
+JR_Grade = int(11)
+JR_DriversLicense = bool(False)
+
+
+print("===========student ID=============")    # Ryan's ID
+print("==================================")
+print(f"Name: {RS_Name}")
+print(f"Age: {RS_Age}")
+print(f"Email: {RS_Email}")
+print(f"Grade: {RS_Grade}")
+print(f"Drivers license: {RS_DriversLicense}")   
+print("==================================")
+
+print(" ")
+
+print("===========student ID=============")   # Gavin's ID
+print("==================================")
+print(f"Name: {GC_Name}")
+print(f"Age: {GC_Age}")
+print(f"Email: {GC_Email}")
+print(f"Grade: {GC_Grade}")
+print(f"Drivers license: {GC_DriversLicense}")
+print("==================================")
+
+print(" ")
+
+print("===========student ID=============")   # Leo's ID
+print("==================================")
+print(f"Name: {LH_Name}")
+print(f"Age: {LH_Age}")
+print(f"Email: {LH_Email}")
+print(f"Grade: {LH_Grade}")
+print(f"Drivers license: {LH_DriversLicense}")
+print("==================================")
+
+print(" ")
+
+print("===========student ID=============")   # Shahood's ID
+print("==================================")
+print(f"Name: {SA_Name}")
+print(f"Age: {SA_Age}")
+print(f"Email: {SA_Email}")
+print(f"Grade: {SA_Grade}")
+print(f"Drivers license: {SA_DriversLicense}")
+print("==================================")
+
+print(" ")
+
+print("===========student ID=============")   # Masons ID
+print("==================================")
+print(f"Name: {MB_Name}")
+print(f"Age: {MB_Age}")
+print(f"Email: {MB_Email}")
+print(f"Grade: {MB_Grade}")
+print(f"Drivers license: {MB_DriversLicense}")
+print("==================================")
+
+print(" ")
+
+print("===========student ID=============")   # Aiden's ID
+print("==================================")
+print(f"Name: {AR_Name}")
+print(f"Age: {AR_Age}")
+print(f"Email: {AR_Email}")
+print(f"Grade: {AR_Grade}")
+print(f"Drivers license: {AR_DriversLicense}")
+print("==================================")
+
+print(" ")
+
+print("===========student ID=============")    # Nathan's ID
+print("==================================")
+print(f"Name: {NC_Name}")
+print(f"Age: {NC_Age}")
+print(f"Email: {NC_Email}")
+print(f"Grade: {NC_Grade}")
+print(f"Drivers license: {NC_DriversLicense}")
+print("==================================")
+
+print(" ")
+
+print("===========student ID=============")    # Marcos's ID
+print("==================================")
+print(f"Name: {MP_Name}")
+print(f"Age: {MP_Age}")
+print(f"Email: {MP_Email}")
+print(f"Grade: {MP_Grade}")
+print(f"Drivers license: {MP_DriversLicense}")
+print("==================================")
+
+print(" ")
+
+print("===========student ID=============")     # Chris's ID
+print("==================================")
+print(f"Name: {CH_Name}")
+print(f"Age: {CH_Age}")
+print(f"Email: {CH_Email}")
+print(f"Grade: {CH_Grade}")
+print(f"Drivers license: {CH_DriversLicense}")
+print("==================================")
+
+print(" ")
+
+print("===========student ID=============")    # Muntag's ID
+print("==================================")
+print(f"Name: {MD_Name}")
+print(f"Age: {MD_Age}")
+print(f"Email: {MD_Email}")
+print(f"Grade: {MD_Grade}")
+print(f"Drivers license: {MD_DriversLicense}")
+print("==================================")
+
+print(" ")
+
+print("===========student ID=============")    # Jaiden's ID
+print("==================================")
+print(f"Name: {JR_Name}")
+print(f"Age: {JR_Age}")
+print(f"Email: {JR_Email}")
+print(f"Grade: {JR_Grade}")
+print(f"Drivers license: {JR_DriversLicense}")
+print("==================================")
+
+print(" ")
